@@ -13,7 +13,8 @@
 
 <details>
     <summary><strong>Anotações</strong></summary>
-        <a href="https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn">MetaMask</a>
+        <br />
+        <a href="https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn">MetaMask</a> <br />
         <a href="https://faucet.metamask.io/">MetaMask Ether Faucet</a>
 </details>
 
